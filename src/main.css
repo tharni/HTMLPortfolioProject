@@ -1,0 +1,16 @@
+.header{
+  color:	#808080;
+  background-color: hsla(0, 100%, 30%, 0.3);
+}
+.tagline{
+  color:#808080;
+  background-color: hsla(0, 100%, 50%, 0.3);
+}
+.skills{
+  color:#808080;
+  background-color: hsla(0, 100%, 70%, 0.3);
+}
+.contact{
+  color:#808080;
+  background-color: hsla(0, 100%, 90%, 0.3);
+}
